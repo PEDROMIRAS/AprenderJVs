@@ -1,9 +1,0 @@
-{
-  "name": "jvs_prueba",
-  "version": "0.0.0",
-  "description": "JVs_prueba",
-  "main": "app.js",
-  "author": {
-    "name": "Pedro"
-  }
-}

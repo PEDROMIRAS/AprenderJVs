@@ -1,3 +1,0 @@
-C:\Users\pmira\OneDrive\Escritorio\Aprender JV\JVs_prueba\obj\Debug\JVs_prueba.njsproj.AssemblyReference.cache
-C:\Users\pmira\OneDrive\Escritorio\Aprender JV\JVs_prueba\obj\Debug\JVs_prueba.njsproj.CoreCompileInputs.cache
-C:\Users\pmira\OneDrive\Escritorio\Aprender JV\JVs_prueba\bin\Microsoft.NodejsTools.WebRole.dll
