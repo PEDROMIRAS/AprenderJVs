@@ -13,9 +13,9 @@ public class AprenderJVs {
 
     public static void main(String[] args) {
         //Asi se saca texto por pantalla
-       System.out.println("Joseda deja de tirar la caña");
-       System.out.println("Mirella es una kks");
-       //¿Jose David te puedo volver GAY?
+       System.out.println("Java no esta tan mal como pensaba");
+       System.out.println("Hola , me llamo Pedro Miras");
+       //¿hola?
        /*
        A ver si este curso de java me ayuda a aprender 
        espero que si , jajajaja :(
